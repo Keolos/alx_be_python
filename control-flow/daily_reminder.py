@@ -1,4 +1,9 @@
 # daily_reminder.py
+task = "Finish project report"
+priority = "high"
+time_bound = "yes"
+
+
 
 # Prompt the user for task details
 task = input("Enter your task: ")
